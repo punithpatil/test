@@ -129,7 +129,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #f6bf01;
+    border-color: 000000;
     color: #fff;
     background-color: #000000;
 }
@@ -214,13 +214,13 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #000000;
+    color: #fff;
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #000000;
+    background-color: #bee0df;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
