@@ -866,3 +866,6 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #bee0df;
 }
+.hello {
+	color: #fff;
+}
