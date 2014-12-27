@@ -869,3 +869,11 @@ body {
 .hello {
 	color: #fff;
 }
+.head1 {
+	color: #FFFFFF
+	 margin-bottom: 200px;
+        font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 25px;
+        font-style: italic;
+        line-height: 30px;
+}
